@@ -2,7 +2,7 @@
 
 ## Nome do Projeto
 Desafio 02: Conceitos do Node.js -
-Rocketseat [GitHub Pages](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+[Rocketseats](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
 ### Sobre o desafio
 
@@ -11,6 +11,7 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 Essa será uma aplicação para armazenar repositórios do seu portfólio, 
 que irá permitir a criação, listagem, atualização e remoção dos repositórios, 
 e além disso permitir que os repositórios possam receber "likes".
+
 
 
 ### Rotas da aplicação
@@ -26,6 +27,7 @@ você deve abrir o arquivo app.js, e completar onde não possui código com o c�
 - DELETE /repositories/:id: A rota deve deletar o repositório com o id presente nos parâmetros da rota;
 
 - POST /repositories/:id/like: A rota deve aumentar o número de likes do repositório específico escolhido através do id presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
+
 
 
 ### Específicação dos testes
@@ -51,7 +53,7 @@ Para esse desafio temos os seguintes testes:
 - should not be able to like a repository that does not exist: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status 400.
 
 
-### Resultado Final
+### Resultado Final dos Testes
 
 ## Tela
 ![1][tela1]
