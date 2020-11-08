@@ -29,7 +29,7 @@ POST /repositories/:id/like: A rota deve aumentar o número de likes do reposit�
 
 
 ### Específicação dos testes
-```
+
 Para esse desafio temos os seguintes testes:
 
 should be able to create a new repository: Para que esse teste passe, sua aplicação deve permitir que um repositório seja criado, e retorne um json com o projeto criado.
@@ -50,7 +50,7 @@ should be able to give a like to the repository: Para que esse teste passe, sua 
 
 should not be able to like a repository that does not exist: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status 400.
 
-```
+
 ### Resultado Final
 
 ## Tela
