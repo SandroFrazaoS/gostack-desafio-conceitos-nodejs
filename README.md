@@ -2,7 +2,7 @@
 
 ## Nome do Projeto
 Desafio 02: Conceitos do Node.js -
-#Rocketseat
+Rocketseat [GitHub Pages](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
 ### Sobre o desafio
 
